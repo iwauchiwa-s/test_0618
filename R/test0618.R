@@ -1,3 +1,12 @@
+#' @title Cohen's d and Hedges' g
+#' @description \code{test_ch} calc. effect size
+#'
+#' @importFrom stats sd
+#' @importFrom utils read.csv
+#' @export
+#' @examples
+#' # test_ch()
+
 test_ch <- function(){
   # Rパッケージ_Cohen's d & Hedges' g_ver.0.0.1
 
